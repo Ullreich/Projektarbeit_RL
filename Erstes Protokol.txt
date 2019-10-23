@@ -1,0 +1,17 @@
+Sensoren und Images in linux bereitstellen 1 !
+Open CV !
+Beispiel Code für Phython
+Eine Camera and das Auto anpicken
+Preprocessing auslagern
+Daten von Bildern vor dem Auto Boden Erkennung
+Aus dem Bild hereaus nehmen die Bodenmakierungen / Spurhaltung system
+Off-policy learning
+Behavier police > target Policy
+Ubuntu debian mangaro kde
+Juli 1.2.1
+Carla 9.6+
+NB: pyplot kann es 0-1 probleme geben
+
+
+
+
